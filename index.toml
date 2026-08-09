@@ -1044,6 +1044,11 @@ hash = "e95dae6d96a6fd51e34a470f3950e543434007afb9d07c3adc07507bbea33219"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "c19c2e5a0b485648c801c4663ece3596d7e3bd1164f9065f27242346655066bf"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
 metafile = true
@@ -1166,6 +1171,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
 metafile = true
 
 [[files]]
