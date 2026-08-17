@@ -1515,11 +1515,6 @@ hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
-metafile = true
-
-[[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "14bd8d81dd8e2e313586273fd5b160ec0c3e33152b9a62af72c89c73284b4848"
 metafile = true
