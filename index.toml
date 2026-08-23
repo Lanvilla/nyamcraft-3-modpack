@@ -1400,6 +1400,11 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1517,11 +1522,6 @@ metafile = true
 [[files]]
 file = "mods/starcatchers-delight.pw.toml"
 hash = "f62879170d2b77e7d1c628c22b89ba3c8c744e40209b22a964b616d30f649ce2"
-metafile = true
-
-[[files]]
-file = "mods/streamotes.pw.toml"
-hash = "1de483c864fef03cc13f3a8e8ed87d8db0473fa889197fa45e7e97c95ee36c56"
 metafile = true
 
 [[files]]
