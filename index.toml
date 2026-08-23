@@ -1420,11 +1420,6 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
-file = "mods/re-animal.pw.toml"
-hash = "4f90db793978fd68d26346271767de42c29549b89e6d5f5266e54b0621e71cb0"
-metafile = true
-
-[[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "953f1447791cdadbdca5fd80caf386e02896f039b883e444e3947a151636c9eb"
 metafile = true
@@ -1522,6 +1517,11 @@ metafile = true
 [[files]]
 file = "mods/starcatchers-delight.pw.toml"
 hash = "f62879170d2b77e7d1c628c22b89ba3c8c744e40209b22a964b616d30f649ce2"
+metafile = true
+
+[[files]]
+file = "mods/streamotes.pw.toml"
+hash = "1de483c864fef03cc13f3a8e8ed87d8db0473fa889197fa45e7e97c95ee36c56"
 metafile = true
 
 [[files]]

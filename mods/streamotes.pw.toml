@@ -1,0 +1,13 @@
+name = "Streamotes: Streamer Emotes"
+filename = "streamotes-NEOFORGE-1.2.15+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee2e8bab3280f64e4c63d71c07e1251c50edec2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8331515
+project-id = 1250607
