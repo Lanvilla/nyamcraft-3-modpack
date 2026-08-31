@@ -953,6 +953,10 @@ file = "kubejs/server_scripts/tags/questTags.js"
 hash = "6270f1fc7456158880c3dd8dd53236663ccef1abea13705422037c782699e7ef"
 
 [[files]]
+file = "kubejs/server_scripts/tags/trash_bag.js"
+hash = "7792e410af0a6b3299d06ddd2b6bca3b5c51ccb7383fce12d2a1cf0e00ef165d"
+
+[[files]]
 file = "kubejs/startup_scripts/currency/core.js"
 hash = "a16d05127a2aab9084308ca7b7fb2d10fddf9d0fc4ed660a2ae1930ca3b3f25b"
 
