@@ -954,7 +954,7 @@ hash = "6270f1fc7456158880c3dd8dd53236663ccef1abea13705422037c782699e7ef"
 
 [[files]]
 file = "kubejs/server_scripts/tags/trash_bag.js"
-hash = "7792e410af0a6b3299d06ddd2b6bca3b5c51ccb7383fce12d2a1cf0e00ef165d"
+hash = "0f7eb519f07ecc690fc65b3f19752d6851b2ac77ef0daaf5805f4f50757c36f7"
 
 [[files]]
 file = "kubejs/startup_scripts/currency/core.js"

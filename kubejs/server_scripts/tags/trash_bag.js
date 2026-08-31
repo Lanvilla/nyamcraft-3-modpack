@@ -47,10 +47,13 @@ ServerEvents.tags('item', (event) => {
 
 	//nether_stage
 	event.add('furniture:trash_bag_blacklist', /^betternether:/)
+	event.add('furniture:trash_bag_blacklist', /nether/)	
 	//end_stage
 	event.add('furniture:trash_bag_blacklist', /^betterend:/)
 	event.add('furniture:trash_bag_blacklist', 'minecraft:shulker_shell')
 	event.add('furniture:trash_bag_blacklist', 'minecraft:dragon_egg')
+	event.add('furniture:trash_bag_blacklist', 'minecraft:end_rod')
+	event.add('furniture:trash_bag_blacklist', 'minecraft:end_crystal')
 	event.add('furniture:trash_bag_blacklist', /chorus/)
 	event.add('furniture:trash_bag_blacklist', /end_stone/)
 	event.add('furniture:trash_bag_blacklist', /purpur_/)
