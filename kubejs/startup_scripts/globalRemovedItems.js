@@ -1,7 +1,5 @@
 global.removedItems = [
-	//create
-	//"create:wheat_flour",
-	//"create:dough",
+	"ftbquests:loot_crate_opener",
 	//croptopia
 	"croptopia:dough",
 	"croptopia:hops",
@@ -12,12 +10,6 @@ global.removedItems = [
 	"croptopia:grape_seed",
 	"croptopia:oatmeal",
 	//farmerdelight
-	"farmersdelight:carrot_crate",
-	"farmersdelight:potato_crate",
-	"farmersdelight:beetroot_crate",
-	"farmersdelight:cabbage_crate",
-	"farmersdelight:tomato_crate",
-	"farmersdelight:onion_crate",
 	"farmersdelight:wheat_dough",
 	"farmersdelight:bacon",
 	"farmersdelight:cooked_bacon",
