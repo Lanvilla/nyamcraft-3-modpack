@@ -358,7 +358,7 @@ hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "9984513afcac8dbb7972ce0e09e0446b03d5c95780fb280ecbacbbf63cb5bdc3"
+hash = "8d59fdb884cd727dae4c22d701fc3a52e3072769f82b42dd19b56762b8552a6d"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -674,7 +674,7 @@ hash = "8f8de8e02625188260f938b551055f101e062c6eb0735efa4dd9a86f6ad22b09"
 
 [[files]]
 file = "kubejs/client_scripts/removeEMI.js"
-hash = "24ce3e43d76a3a50f58222b77269a6868fe599981c4cf859ca0caec9469d8376"
+hash = "656435823289728b90d3a2bccf3fae60dd840f9b649847d9b23774a00ce84477"
 
 [[files]]
 file = "kubejs/data/selling_bin/data_maps/item/selling_bin_currencies.json"
@@ -738,7 +738,11 @@ hash = "05592596f436c06121435e9f48aa11dcef4a7b1f397ba9cf8e2901f632942fb6"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/craftingbowl/butter.js"
-hash = "607a93a0c52d2dd0189619c69aeaf9c3994a4bacf2084845badb3a8fb9788eb9"
+hash = "12380ef8fbfa9d5967c3bff0cbad84dfa169d5742457152893315b7d6b628a26"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/craftingbowl/flour.js"
+hash = "9820d75ec11595b86b41c890b9aeabea29e1430cf317ce1593941fbadd837559"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/croptopia/dough.js"
@@ -751,6 +755,10 @@ hash = "6774a37886efaae94a06edff506a4ab71c012a791dd71062ef5184dad3e2dc0d"
 [[files]]
 file = "kubejs/server_scripts/recipes/drying/dried_barley.js"
 hash = "291d5d42b9e6166603b576efe6c11451002c4e0c50707a4eab49afe9153b3b4b"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/butter.js"
+hash = "07bb3d78e6faa6968c01aa6318d67d40f3d400147a7b8097aaaddacd37f9a634"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/chocolate_taiyaki.js"
@@ -897,8 +905,16 @@ file = "kubejs/server_scripts/recipes/farmersdelight/crafting.js"
 hash = "5cdf0102601994e5820159fc3712aa4dc473cd19fc8a448b574fffb51910d982"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/crates.js"
+hash = "e06a65a02b7ed75fa0d65e6a2dd4ddba1dd195540a2dcde49122999d5e18dae5"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/mincer/alpine_salt_ore.js"
 hash = "aec7f92c6e0bbd069ef09f2c6bdbac97601d638aed775dc069d4e84cedc49bb0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mincer/flour.js"
+hash = "990785be7c4ef199d081b4b6efd74af7dd0d9976f4de40271af5d8364d067448"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/modifyRecipes.js"
@@ -914,19 +930,15 @@ hash = "5b76d3288472dd1f1ef09928f63a2571519592281c42c3e19bed75bf7b730e7c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/removeRecipes.js"
-hash = "7339ea242c34446fe3e77bbd798c89cdeb2884186f9d487e56c3e24f26fb53ca"
+hash = "9b08ea24f9053a7ed6cefe65fb2d135b96d2e9510af6e6e729cdb3a657d1b8cb"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/roaster/bacon_with_eggs.js"
-hash = "d3368cee62e0611c0d97e545b6cec5525e09b4c47c3292884664baaaaa2a77a4"
+file = "kubejs/server_scripts/recipes/roaster/barley_soup.js"
+hash = "5a987fb2a0bff99feae417528f680f234241cf701139295aaf9f8893eb2080d8"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/roaster/chicken_wrapped_in_bacon.js"
-hash = "016bdf12aa906852eebe9fdaf9674301b99631c12bc90611841caaf67dcd4a0e"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/roaster/oat_pancake.js"
-hash = "acf9eb1e63fed7c1e9a4e7dfd357f1fe5f0b0043d257939671bb78f79ea11b92"
+file = "kubejs/server_scripts/recipes/roaster/butter.js"
+hash = "b351b5e46244f1016a24d96eafd5cb7b37a33d90a86975569c5411bbb4853a88"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/stove/grilled_bacon_sandwich.js"
@@ -962,7 +974,7 @@ hash = "a16d05127a2aab9084308ca7b7fb2d10fddf9d0fc4ed660a2ae1930ca3b3f25b"
 
 [[files]]
 file = "kubejs/startup_scripts/globalRemovedItems.js"
-hash = "1cc9be1340e95d5a19bcafe388b226fbf149d84b21911ce1361dbe2f1feb354e"
+hash = "f3f1a25b28151b4af3653c7381f8545f7640d6605e13799e5ba832512dba0e1d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
