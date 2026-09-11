@@ -28,9 +28,6 @@ global.removedItems = [
 	//letsdo meadow
 	"meadow:alpine_salt",
 	//vanilla
-	"farm_and_charm:carrot_bag",
-	"farm_and_charm:potato_bag",
-	"farm_and_charm:beetroot_bag",
 	//tomato
 	"farmersdelight:tomato",
 	"farmersdelight:tomato_seeds",
@@ -39,25 +36,22 @@ global.removedItems = [
 	"farm_and_charm:tomato",
 	"farm_and_charm:tomato_seeds",
 	"farm_and_charm:rotten_tomato",
-	"farm_and_charm:tomato_bag",
 	"farm_and_charm:wild_tomatoes",
 	//cabbage
 	"farmersdelight:cabbage_seeds",
 	"farmersdelight:wild_cabbages",
 	"farmersdelight:cabbage",
 	"farmersdelight:cabbage_leaf",
+	//lettuce
 	"farm_and_charm:lettuce",
 	"farm_and_charm:lettuce_seeds",
-	"farm_and_charm:lettuce_bag",
 	"farm_and_charm:wild_lettuce",
 	//onion
 	"farmersdelight:onion",
 	"farmersdelight:wild_onions",
 	"farm_and_charm:onion",
-	"farm_and_charm:onion_bag",
 	"farm_and_charm:wild_onions",
 	//rice
-	"farmersdelight:rice_bag",
 	"farmersdelight:rice_bale",
 	"farmersdelight:wild_rice",
 	"farmersdelight:rice_panicle",
@@ -66,12 +60,10 @@ global.removedItems = [
 	"farm_and_charm:kernels",
 	"farm_and_charm:corn",
 	"farm_and_charm:wild_corn",
-	"farm_and_charm:corn_bag",
 	//strawberry
 	"farm_and_charm:strawberry_seeds",
 	"farm_and_charm:strawberry",
 	"farm_and_charm:wild_strawberries",
-	"farm_and_charm:strawberry_bag",
 	//barley
 	"farm_and_charm:barley_seeds",
 	"farm_and_charm:barley",

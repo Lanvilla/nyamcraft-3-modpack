@@ -12,4 +12,8 @@ event.shaped('fungidelight:brown_mushroom_crate', [ 'AAA', 'AAA', 'AAA' ], { A: 
 event.shaped('fungidelight:inky_cap_mushroom_crate', [ 'AAA', 'AAA', 'AAA' ], { A: 'fungidelight:inky_cap_mushroom'})
 event.shaped('fungidelight:morel_mushroom_crate', [ 'AAA', 'AAA', 'AAA' ], { A: 'fungidelight:morel_mushroom'})
 event.shaped('fungidelight:red_mushroom_crate', [ 'AAA', 'AAA', 'AAA' ], { A: 'minecraft:red_mushroom'})
+event.remove({output: 'farmersdelight:rice_bag'})
+event.shaped('farmersdelight:rice_bag', [ 'AAA', 'AAA', 'AAA' ], { A: '#c:seeds/rice'})
+event.shapeless('9x farmersdelight:rice',  [ 'farmersdelight:rice_bag' ])
+event.shapeless('9x croptopia:rice_seed',  [ 'farmersdelight:rice_bag' ])
 })
